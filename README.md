@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: 
 
-  - <a href="mailto:egyjs.com@gmai.com"  title="El-zahaby's Email"><img align="left" alt="El-zahaby's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a><a href="https://www.instagram.com/egyjs" title="El-zahaby's Instagram"><img align="left" alt="El-zahaby's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://m.me/el3zahaby" title="El-zahaby's Messenger"><img align="left" alt="El-zahaby's Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" /></a>
+  - <a href="mailto:el3zahaby@gmai.com"  title="El-zahaby's Email"><img align="left" alt="El-zahaby's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a><a href="https://www.instagram.com/egyjs" title="El-zahaby's Instagram"><img align="left" alt="El-zahaby's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://m.me/el3zahaby" title="El-zahaby's Messenger"><img align="left" alt="El-zahaby's Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" /></a>
 
 <br><br>
 
@@ -23,4 +23,3 @@
 
 - 🔭 I’m currently working as freelancer.
 - 🤔 I’m looking for help with geting an a `$good && $stable` job.
-- ⚡ Fun fact: am 19 years old an i have an a really good work experience.
