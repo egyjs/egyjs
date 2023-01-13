@@ -16,10 +16,15 @@
 
 <br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=egyjs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+***
+<h3 align="center">My Github Stats 📉 </h3>
 
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=egyjs&theme=city_lights&hide=issues&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
 
+***
+<br><br><br>
 
 - 🔭 I’m currently working as freelancer.
 - 🤔 I’m looking for help with geting an a `$good && $stable` job.
