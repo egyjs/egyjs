@@ -24,7 +24,6 @@
 </p>
 
 ***
-<br><br><br>
-
+<br>
 - 🔭 I’m currently working as freelancer.
 - 🤔 I’m looking for help with geting an a `$good && $stable` job.
